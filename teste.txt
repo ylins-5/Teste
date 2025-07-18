@@ -1,1 +1,2 @@
-Teste aula Git e GitHub.
+Teste aula Git e GitHub. Alterado
+
